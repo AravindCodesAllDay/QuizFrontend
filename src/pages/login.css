@@ -1,0 +1,47 @@
+h1 {
+  font-size: 875%;
+  text-align: center;
+  margin-top: 2%;
+  font-family: cursive;
+  color: rgb(92, 49, 49);
+}
+p {
+  font-size: 475%;
+  font-family: cursive;
+  text-align: center;
+  color: rgb(92, 49, 49);
+  margin-top: -6%;
+}
+#teamnamelabel {
+  font-size: large;
+  font-family: cursive;
+  color: rgb(92, 49, 49);
+}
+.teamname {
+  border-radius: 2%;
+  margin-top: -3%;
+  border: 4px solid rgb(92, 49, 49);
+  width: 24%;
+  height: 80%;
+  padding-left: 1.5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  /* background-color: rgb(82, 239, 42); */
+  margin-left: 39%;
+}
+#nextbutton {
+  margin-left: 38%;
+  margin-top: 5%;
+  font-family: cursive;
+  color: rgb(92, 49, 49);
+}
+.tablerow {
+  display: table-row;
+}
+.tablecol {
+  display: table-cell;
+  padding: 0.3em;
+}
+body {
+  background-color: rgb(225, 219, 208);
+}
